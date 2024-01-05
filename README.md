@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BalaDreamchaser
 - 👀 I’m interested in Data Science with ML
 - 🌱 I’m currently learning Deep Learning Algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on modern frameworks and technologies, interested in contributing to projects that involve data visualization and machine learning.
 - 📫 How to reach me mail@ bala77712@gmail.com
 
 <!---
